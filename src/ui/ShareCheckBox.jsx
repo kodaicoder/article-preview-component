@@ -9,6 +9,7 @@ const ShareCheckBox = () => {
       <input
         id="shareCheckbox"
         name="shareCheckbox"
+        aria-label="Share"
         className="appearance-none peer"
         type="checkbox"
       />
