@@ -16,7 +16,7 @@ const ShareBox = () => {
         className="p-3 transition-all duration-300 hover:bg-[color:var(--light-grayish-blue)] rounded-full group z-10"
       >
         <IoLogoFacebook
-          className={`text-3xl text-[color:var(--light-grayish-blue)]
+          className={`text-3xl transition-all duration-300 text-[color:var(--light-grayish-blue)]
         group-hover:text-[color:var(--dark-blue)]`}
         />
       </a>
@@ -25,7 +25,7 @@ const ShareBox = () => {
         className="p-3 transition-all duration-300 hover:bg-[color:var(--light-grayish-blue)] rounded-full group z-10"
       >
         <IoLogoTwitter
-          className={`text-3xl text-[color:var(--light-grayish-blue)]
+          className={`text-3xl transition-all duration-300 text-[color:var(--light-grayish-blue)]
         group-hover:text-[color:var(--dark-blue)]`}
         />
       </a>
@@ -34,7 +34,7 @@ const ShareBox = () => {
         className="p-3 transition-all duration-300 hover:bg-[color:var(--light-grayish-blue)] rounded-full group z-10"
       >
         <IoLogoPinterest
-          className={`text-3xl text-[color:var(--light-grayish-blue)]
+          className={`text-3xl transition-all duration-300 text-[color:var(--light-grayish-blue)]
         group-hover:text-[color:var(--dark-blue)]`}
         />
       </a>
