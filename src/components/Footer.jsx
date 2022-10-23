@@ -9,7 +9,7 @@ const FooterText = () => {
       </a>
       . Coded by{" "}
       <a className="text-blue-500" href="https://github.com/kodaicoder">
-        Kodaicoder
+        Kodai Coder
       </a>
       .
     </small>
