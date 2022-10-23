@@ -8,8 +8,8 @@ const FooterText = () => {
         Frontend Mentor
       </a>
       . Coded by{" "}
-      <a className="text-blue-500" href="https://github.com/NutchaponMake">
-        Nutchapon
+      <a className="text-blue-500" href="https://github.com/kodaicoder">
+        Kodaicoder
       </a>
       .
     </small>
