@@ -13,7 +13,7 @@ const ShareBox = () => {
       <p className="tracking-[.25rem] uppercase p-3 md:p-0">Share</p>
       <a
         href="#facebook"
-        className="p-3 hover:bg-[color:var(--light-grayish-blue)] rounded-full group z-10"
+        className="p-3 transition-all duration-300 hover:bg-[color:var(--light-grayish-blue)] rounded-full group z-10"
       >
         <IoLogoFacebook
           className={`text-3xl text-[color:var(--light-grayish-blue)]
@@ -22,7 +22,7 @@ const ShareBox = () => {
       </a>
       <a
         href="#twitter"
-        className="p-3 hover:bg-[color:var(--light-grayish-blue)] rounded-full group z-10"
+        className="p-3 transition-all duration-300 hover:bg-[color:var(--light-grayish-blue)] rounded-full group z-10"
       >
         <IoLogoTwitter
           className={`text-3xl text-[color:var(--light-grayish-blue)]
@@ -31,7 +31,7 @@ const ShareBox = () => {
       </a>
       <a
         href="#pinterest"
-        className="p-3 hover:bg-[color:var(--light-grayish-blue)] rounded-full group z-10"
+        className="p-3 transition-all duration-300 hover:bg-[color:var(--light-grayish-blue)] rounded-full group z-10"
       >
         <IoLogoPinterest
           className={`text-3xl text-[color:var(--light-grayish-blue)]
